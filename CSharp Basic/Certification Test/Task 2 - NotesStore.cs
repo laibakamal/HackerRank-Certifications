@@ -1,30 +1,16 @@
-Sample Input:
-6
-AddNote active DrinkTea
-AddNote active DrinkCoffee
-AddNote completed Study
-GetNotes active 
-GetNotes completed
-GetNotes foo
+//Sample Input:
+//6
+//AddNote active DrinkTea
+//AddNote active DrinkCoffee
+//AddNote completed Study
+//GetNotes active 
+//GetNotes completed
+//GetNotes foo
 
-Sample Output:
-DrinkTea,DrinkCoffee
-Study
-Error: Invalid state foo
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+//Sample Output:
+//DrinkTea,DrinkCoffee
+//Study
+//Error: Invalid state foo
 
 
 using System;

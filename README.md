@@ -1,2 +1,1 @@
-# HackerRank-Certifications
-This repository contains the quiz I've solved on HackerRank for the certification.
+Solutions submitted for HackerRank's skill certifications. Each folder maps to one certification track.
